@@ -1,5 +1,5 @@
 # Cape_Cod_Bay_2023
-code specific to the 2023 drifter/miniboat/makerbuoy processing
+This repository has code specific to the 2023 drifter/miniboat/makerbuoy processing
 
 Please refer to the googledoc at:
 https://docs.google.com/document/d/1_5W0-kkSNnO-ar3thMn-13uu7Glq7JAmCPSd4iqSAIA/edit  for notes on the 2023 Cape Cod Bay project
